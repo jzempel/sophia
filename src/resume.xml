@@ -30,12 +30,11 @@
       I am a hard-working student majoring in graphic design at George Fox
       University. I am passionate about building relationships, deepening
       friendships, and finding ways to collaborate with others. I have
-      benefitted from a diverse educational background (homeschool, private
-      school, and public school), which taught me to be flexible and to adapt
-      to whatever situation I find myself in. I have learned not to hold back
-      out of fear, but to jump right in, try my best, and immerse myself in
-      what others are doing. It brings me joy to think of ways to support a
-      mission or cause.
+      benefitted from a diverse educational background which taught me to be
+      flexible and to adapt to whatever situation I find myself in. I have
+      learned not to hold back out of fear, but to jump right in, try my best,
+      and immerse myself in what others are doing. It brings me joy to think of
+      ways to support a mission or cause.
     </ExecutiveSummary>
 
     <Objective></Objective>
@@ -77,7 +76,7 @@
           <Competency
               description="Being assertive with clients" />
           <Competency
-              description="Ability to ask for money in strategic ways" />
+              description="Asking for funds from patrons while building relationships" />
         </PositionHistory>
       </EmployerOrg>
       <EmployerOrg>
@@ -107,13 +106,11 @@
             <YearMonth>2013-08</YearMonth>
           </StartDate>
           <Competency
-              description="Operation of various camera equipment" />
-          <Competency
-              description="Post-processing and editing of photos via software applications" />
-          <Competency
               description="How to build a small business" />
           <Competency
               description="How to build a website" />
+          <Competency
+              description="Post-processing and editing of photos via software applications" />
           <Competency
               description="Client communication" />
           <Competency
@@ -241,11 +238,8 @@
       <Competency name="2017">
         <Competency name="Photographer for Crescent Magazine at George Fox University" />
       </Competency>
-      <Competency name="2012-16">
-        <Competency name="Heavy involvement in the Grace Presbyterian Church of Silicon Valley youth group" />
-      </Competency>
       <Competency name="2014, 2015">
-        <Competency name="Two summer mission trips to &#x201C;Warm Springs Reservation&#x201D; in partnership with Sacred Road Ministries" />
+        <Competency name="Volunteer at a Native American reservation during the summer in partnership with Sacred Road Ministries" />
       </Competency>
       <Competency name="2014-15">
         <Competency name="Treasurer for NAACH  (multi-cultural bollywood dance group)" />
@@ -255,12 +249,6 @@
       </Competency>
       <Competency name="2015-16">
         <Competency name="Member of Senior Women (community service club)" />
-      </Competency>
-      <Competency name="2012">
-        <Competency name="Volunteer at an after-school program for local elementary school students, providing tutoring and childcare" />
-      </Competency>
-      <Competency name="2011-12">
-        <Competency name="Member of Girl Scouts of America" />
       </Competency>
     </Qualifications>
 
@@ -305,7 +293,7 @@
     <ResumeAdditionalItems>
       <ResumeAdditionalItem>
         <Description>
-          graphic design
+          typography
         </Description>
       </ResumeAdditionalItem>
       <ResumeAdditionalItem>
